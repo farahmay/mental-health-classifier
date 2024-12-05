@@ -16,7 +16,7 @@ The [model_evaluation_charts.ipynb](model_evaluation_charts.ipynb) file contains
 
 ### Example Chart
 
-![Class Metrics and Confusion Matrix](path/to/your/screenshot.png)
+![Class Metrics and Confusion Matrix](screen2.png)
 
 ## Testing the Model
 

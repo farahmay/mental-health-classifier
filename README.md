@@ -22,6 +22,9 @@ The [model_evaluation_charts.ipynb](model_evaluation_charts.ipynb) file contains
 
 The [test_model.ipynb](test_model.ipynb) file contains the code to load the saved model and test it with real inputs.
 
+## Evaluation Metrics
+![Class Metrics and Accuracy](screen1.png)
+
 ## Usage
 
 1. Train the model by running the cells in the [model_train.ipynb](model_train.ipynb) notebook.
